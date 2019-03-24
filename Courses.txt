@@ -1,0 +1,91 @@
+10
+Any
+Any
+Any
+Any
+Any
+
+20
+Any
+Any
+Any
+Any
+Any
+
+30
+Any
+Any
+Any
+Any
+Any
+
+40
+Any
+Any
+Any
+Any
+Any
+
+50
+Any
+Any
+Any
+Any
+Any
+
+60
+Any
+Any
+Any
+Any
+Any
+
+11
+Amit Setia
+M W F
+NA
+NA
+MathF111
+
+12
+G Samanta
+T Th F
+NA
+W
+MathF111
+
+31
+TK Jha,Sunil Kumar
+M W
+Th F
+NA
+PhyF111
+
+32
+TK Jha, Toby Joeseph
+M W
+Th F
+NA
+PhyF111
+
+33
+TK Jha, Gaurav Dhar
+M W
+Th F
+NA
+PhyF111
+
+34
+TK Jha, Ram Shankar Patel
+M W
+S F
+NA
+PhyF111
+
+35
+TK Jha, Sunil Kumar V
+T Th
+W S
+NA
+PhyF111
+
